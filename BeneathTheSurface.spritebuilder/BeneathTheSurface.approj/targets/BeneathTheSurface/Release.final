@@ -1,0 +1,809 @@
+{
+    "assets": [
+        {
+            "asset": "Source/Resources/Icons/Settings.png", 
+            "target": "Settings.png"
+        }, 
+        {
+            "asset": "Source/Resources/Default@2x.png", 
+            "target": "Default@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPad@2x.png", 
+            "target": "iPad@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPad.png", 
+            "target": "iPad.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPad-old@2x.png", 
+            "target": "iPad-old@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPhone-old@2x.png", 
+            "target": "iPhone-old@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/configCocos2d.plist", 
+            "target": "Published-iOS/configCocos2d.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/fileLookup.plist", 
+            "target": "Published-iOS/fileLookup.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/MainScene.ccbi", 
+            "target": "Published-iOS/MainScene.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/MenuScene.ccbi", 
+            "target": "Published-iOS/MenuScene.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Obstacle.ccbi", 
+            "target": "Published-iOS/Obstacle.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/OuterSpike.ccbi", 
+            "target": "Published-iOS/OuterSpike.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/spriteFrameFileList.plist", 
+            "target": "Published-iOS/spriteFrameFileList.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Strings.ccbLang", 
+            "target": "Published-iOS/Strings.ccbLang"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Test.ccbi", 
+            "target": "Published-iOS/Test.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbButtonHighlighted.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbButtonHighlighted.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbButtonNormal.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbButtonNormal.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbParticleFire.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbParticleFire.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbParticleMagic.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbParticleMagic.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbParticleSmoke.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbParticleSmoke.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbParticleSnow.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbParticleSnow.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbParticleStars.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbParticleStars.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbSliderBgHighlighted.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbSliderBgHighlighted.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbSliderBgNormal.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbSliderBgNormal.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbSliderHandle.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbSliderHandle.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbTextField.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbTextField.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbButtonHighlighted.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbButtonHighlighted.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbButtonNormal.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbButtonNormal.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbParticleFire.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbParticleFire.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbParticleMagic.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbParticleMagic.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbParticleSmoke.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbParticleSmoke.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbParticleSnow.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbParticleSnow.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbParticleStars.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbParticleStars.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbSliderBgHighlighted.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbSliderBgHighlighted.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbSliderBgNormal.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbSliderBgNormal.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbSliderHandle.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbSliderHandle.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbTextField.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbTextField.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbButtonHighlighted.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbButtonHighlighted.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbButtonNormal.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbButtonNormal.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbParticleFire.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbParticleFire.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbParticleMagic.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbParticleMagic.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbParticleSmoke.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbParticleSmoke.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbParticleSnow.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbParticleSnow.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbParticleStars.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbParticleStars.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbSliderBgHighlighted.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbSliderBgHighlighted.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbSliderBgNormal.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbSliderBgNormal.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbSliderHandle.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbSliderHandle.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbTextField.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbTextField.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbButtonHighlighted.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbButtonHighlighted.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbButtonNormal.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbButtonNormal.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbParticleFire.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbParticleFire.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbParticleMagic.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbParticleMagic.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbParticleSmoke.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbParticleSmoke.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbParticleSnow.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbParticleSnow.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbParticleStars.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbParticleStars.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbSliderBgHighlighted.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbSliderBgHighlighted.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbSliderBgNormal.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbSliderBgNormal.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbSliderHandle.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbSliderHandle.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbTextField.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbTextField.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/hit.caf", 
+            "target": "Published-iOS/resources/hit.caf"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/hitSun.caf", 
+            "target": "Published-iOS/resources/hitSun.caf"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/Jump1.caf", 
+            "target": "Published-iOS/resources/Jump1.caf"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/Jump2.caf", 
+            "target": "Published-iOS/resources/Jump2.caf"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/mountainCreation.caf", 
+            "target": "Published-iOS/resources/mountainCreation.caf"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/mountainDestruction.caf", 
+            "target": "Published-iOS/resources/mountainDestruction.caf"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phone/arrow2.png", 
+            "target": "Published-iOS/resources/resources-phone/arrow2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phone/circle.png", 
+            "target": "Published-iOS/resources/resources-phone/circle.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phone/circleSmall.png", 
+            "target": "Published-iOS/resources/resources-phone/circleSmall.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phone/hero1.png", 
+            "target": "Published-iOS/resources/resources-phone/hero1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phone/hero1Small.png", 
+            "target": "Published-iOS/resources/resources-phone/hero1Small.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phone/hero2.png", 
+            "target": "Published-iOS/resources/resources-phone/hero2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phone/hero2Small.png", 
+            "target": "Published-iOS/resources/resources-phone/hero2Small.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phone/mountainSmall.png", 
+            "target": "Published-iOS/resources/resources-phone/mountainSmall.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phone/mountainSmallHorizontal.png", 
+            "target": "Published-iOS/resources/resources-phone/mountainSmallHorizontal.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phone/outerSpike.png", 
+            "target": "Published-iOS/resources/resources-phone/outerSpike.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phone/sun.png", 
+            "target": "Published-iOS/resources/resources-phone/sun.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phone/sunSmall.png", 
+            "target": "Published-iOS/resources/resources-phone/sunSmall.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phone/triangle.png", 
+            "target": "Published-iOS/resources/resources-phone/triangle.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phone/triangleSmall.png", 
+            "target": "Published-iOS/resources/resources-phone/triangleSmall.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phone/world.png", 
+            "target": "Published-iOS/resources/resources-phone/world.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phone/worldSmall.png", 
+            "target": "Published-iOS/resources/resources-phone/worldSmall.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phonehd/arrow2.png", 
+            "target": "Published-iOS/resources/resources-phonehd/arrow2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phonehd/circle.png", 
+            "target": "Published-iOS/resources/resources-phonehd/circle.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phonehd/circleSmall.png", 
+            "target": "Published-iOS/resources/resources-phonehd/circleSmall.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phonehd/hero1.png", 
+            "target": "Published-iOS/resources/resources-phonehd/hero1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phonehd/hero1Small.png", 
+            "target": "Published-iOS/resources/resources-phonehd/hero1Small.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phonehd/hero2.png", 
+            "target": "Published-iOS/resources/resources-phonehd/hero2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phonehd/hero2Small.png", 
+            "target": "Published-iOS/resources/resources-phonehd/hero2Small.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phonehd/mountainSmall.png", 
+            "target": "Published-iOS/resources/resources-phonehd/mountainSmall.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phonehd/mountainSmallHorizontal.png", 
+            "target": "Published-iOS/resources/resources-phonehd/mountainSmallHorizontal.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phonehd/outerSpike.png", 
+            "target": "Published-iOS/resources/resources-phonehd/outerSpike.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phonehd/sun.png", 
+            "target": "Published-iOS/resources/resources-phonehd/sun.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phonehd/sunSmall.png", 
+            "target": "Published-iOS/resources/resources-phonehd/sunSmall.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phonehd/triangle.png", 
+            "target": "Published-iOS/resources/resources-phonehd/triangle.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phonehd/triangleSmall.png", 
+            "target": "Published-iOS/resources/resources-phonehd/triangleSmall.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phonehd/world.png", 
+            "target": "Published-iOS/resources/resources-phonehd/world.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-phonehd/worldSmall.png", 
+            "target": "Published-iOS/resources/resources-phonehd/worldSmall.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablet/arrow2.png", 
+            "target": "Published-iOS/resources/resources-tablet/arrow2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablet/circle.png", 
+            "target": "Published-iOS/resources/resources-tablet/circle.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablet/circleSmall.png", 
+            "target": "Published-iOS/resources/resources-tablet/circleSmall.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablet/hero1.png", 
+            "target": "Published-iOS/resources/resources-tablet/hero1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablet/hero1Small.png", 
+            "target": "Published-iOS/resources/resources-tablet/hero1Small.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablet/hero2.png", 
+            "target": "Published-iOS/resources/resources-tablet/hero2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablet/hero2Small.png", 
+            "target": "Published-iOS/resources/resources-tablet/hero2Small.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablet/mountainSmall.png", 
+            "target": "Published-iOS/resources/resources-tablet/mountainSmall.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablet/mountainSmallHorizontal.png", 
+            "target": "Published-iOS/resources/resources-tablet/mountainSmallHorizontal.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablet/outerSpike.png", 
+            "target": "Published-iOS/resources/resources-tablet/outerSpike.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablet/sun.png", 
+            "target": "Published-iOS/resources/resources-tablet/sun.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablet/sunSmall.png", 
+            "target": "Published-iOS/resources/resources-tablet/sunSmall.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablet/triangle.png", 
+            "target": "Published-iOS/resources/resources-tablet/triangle.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablet/triangleSmall.png", 
+            "target": "Published-iOS/resources/resources-tablet/triangleSmall.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablet/world.png", 
+            "target": "Published-iOS/resources/resources-tablet/world.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablet/worldSmall.png", 
+            "target": "Published-iOS/resources/resources-tablet/worldSmall.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablethd/arrow2.png", 
+            "target": "Published-iOS/resources/resources-tablethd/arrow2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablethd/circle.png", 
+            "target": "Published-iOS/resources/resources-tablethd/circle.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablethd/circleSmall.png", 
+            "target": "Published-iOS/resources/resources-tablethd/circleSmall.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablethd/hero1.png", 
+            "target": "Published-iOS/resources/resources-tablethd/hero1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablethd/hero1Small.png", 
+            "target": "Published-iOS/resources/resources-tablethd/hero1Small.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablethd/hero2.png", 
+            "target": "Published-iOS/resources/resources-tablethd/hero2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablethd/hero2Small.png", 
+            "target": "Published-iOS/resources/resources-tablethd/hero2Small.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablethd/mountainSmall.png", 
+            "target": "Published-iOS/resources/resources-tablethd/mountainSmall.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablethd/mountainSmallHorizontal.png", 
+            "target": "Published-iOS/resources/resources-tablethd/mountainSmallHorizontal.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablethd/outerSpike.png", 
+            "target": "Published-iOS/resources/resources-tablethd/outerSpike.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablethd/sun.png", 
+            "target": "Published-iOS/resources/resources-tablethd/sun.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablethd/sunSmall.png", 
+            "target": "Published-iOS/resources/resources-tablethd/sunSmall.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablethd/triangle.png", 
+            "target": "Published-iOS/resources/resources-tablethd/triangle.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablethd/triangleSmall.png", 
+            "target": "Published-iOS/resources/resources-tablethd/triangleSmall.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablethd/world.png", 
+            "target": "Published-iOS/resources/resources-tablethd/world.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources/resources-tablethd/worldSmall.png", 
+            "target": "Published-iOS/resources/resources-tablethd/worldSmall.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/Settings@2x.png", 
+            "target": "Settings@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Default-Landscape~ipad.png", 
+            "target": "Default-Landscape~ipad.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPhone-old.png", 
+            "target": "iPhone-old.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPhone.png", 
+            "target": "iPhone.png"
+        }, 
+        {
+            "asset": "Source/Resources/Default-568h@2x.png", 
+            "target": "Default-568h@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPhone@2x.png", 
+            "target": "iPhone@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Default.png", 
+            "target": "Default.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPad-old.png", 
+            "target": "iPad-old.png"
+        }
+    ], 
+    "config": {
+        "APPLICATION_FULL_NAME": "Lilu's and Lula's Mountain Adventures", 
+        "APPLICATION_IDENTIFIER": "ro.tibor.LiluAndLula", 
+        "APPLICATION_NAME": "Lilu", 
+        "FEATURES": [
+            "opengles2", 
+            "portrait"
+        ], 
+        "ICON": "./AndroidIcon.png", 
+        "ICU_CONFIG": "normal", 
+        "LONG_VERSION": "1.0", 
+        "SHORT_VERSION": "1.0", 
+        "TEMPLATE_VALUES": {
+            "EXECUTABLE_NAME": "LiluAndLula", 
+            "PRODUCT_NAME": "LiluAndLula"
+        }
+    }, 
+    "defines": {
+        "NDEBUG": 1, 
+        "NS_BLOCK_ASSERTIONS": 1, 
+        "__IPHONE_OS_VERSION_MIN_REQUIRED": 50000
+    }, 
+    "deps": [
+        "UIKit", 
+        "GLKit", 
+        "QuartzCore", 
+        "OpenGLES", 
+        "OpenAL", 
+        "AudioToolbox", 
+        "AVFoundation", 
+        "UIKit", 
+        "Foundation", 
+        "CoreGraphics", 
+        "CoreText"
+    ], 
+    "flags": [
+        "-fobjc-arc", 
+        "-fasm-blocks", 
+        {
+            "flag": "-std=gnu99", 
+            "not_type": "c++"
+        }, 
+        {
+            "flag": "-fgnu-keywords", 
+            "not_type": "c++"
+        }, 
+        "-fno-asm", 
+        "-fpascal-strings", 
+        "-Wno-deprecated-declarations", 
+        "-Wreturn-type", 
+        "-Wswitch", 
+        "-Wparentheses", 
+        "-Wformat", 
+        "-Wunused-value", 
+        "-Wunused-variable", 
+        {
+            "flag": "-Winvalid-offsetof", 
+            "type": "c++"
+        }, 
+        {
+            "flag": "-Wprotocol", 
+            "type": "objc"
+        }
+    ], 
+    "header_paths": [
+        {
+            "header_path": "LiluAndLula-generated-files.hmap", 
+            "hmap": {}, 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "LiluAndLula-own-target-headers.hmap", 
+            "hmap": {}, 
+            "type": "I"
+        }, 
+        {
+            "header_path": "LiluAndLula-all-target-headers.hmap", 
+            "hmap": {}, 
+            "type": "I"
+        }, 
+        {
+            "header_path": "LiluAndLula-project-headers.hmap", 
+            "hmap": {
+                "AppDelegate.h": {
+                    "key": "AppDelegate.h", 
+                    "prefix": "Source/", 
+                    "suffix": "AppDelegate.h"
+                }, 
+                "MainScene.h": {
+                    "key": "MainScene.h", 
+                    "prefix": "Source/", 
+                    "suffix": "MainScene.h"
+                }, 
+                "Prefix.pch": {
+                    "key": "Prefix.pch", 
+                    "prefix": "Source/", 
+                    "suffix": "Prefix.pch"
+                }, 
+                "UTMenuScene.h": {
+                    "key": "UTMenuScene.h", 
+                    "prefix": "Source/", 
+                    "suffix": "UTMenuScene.h"
+                }, 
+                "UTWorldCollisionHandler.h": {
+                    "key": "UTWorldCollisionHandler.h", 
+                    "prefix": "Source/CollisionHandler/", 
+                    "suffix": "UTWorldCollisionHandler.h"
+                }
+            }, 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "/var/folders/8h/7_8jtg1x3nv5b8cvm5m_lj1r0000gn/T/tmp8c8lsm/BUILT_PRODUCTS_DIR/include", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/kazmath/include", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d/Platforms", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d/Support", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d/Platforms/iOS", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d/Platforms/Mac", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/Chipmunk/objectivec/include", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/Chipmunk/include", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d-ui", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d-ui/CCBReader", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/ObjectAL", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/ObjectAL/Actions", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/ObjectAL/AudioTrack", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/ObjectAL/OpenAL", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/ObjectAL/Session", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/ObjectAL/Support", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "/var/folders/8h/7_8jtg1x3nv5b8cvm5m_lj1r0000gn/T/tmp8c8lsm/DERIVED_FILE_DIR/armv7", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "/var/folders/8h/7_8jtg1x3nv5b8cvm5m_lj1r0000gn/T/tmp8c8lsm/DERIVED_FILE_DIR", 
+            "type": "I"
+        }
+    ], 
+    "infoplists": [
+        "./Source/Resources/Info.plist"
+    ], 
+    "java_libs": [], 
+    "java_res_dirs": [], 
+    "java_sourcepaths": [], 
+    "java_sources": [], 
+    "libs": [
+        "z", 
+        "sqlite3"
+    ], 
+    "link_flags": [], 
+    "modules": [
+        {
+            "build_cwd": "Source/libs/cocos2d-iphone", 
+            "project": "Chipmunk7-ios", 
+            "project_config": "Release", 
+            "target": "ObjectiveChipmunk-iPhone"
+        }, 
+        {
+            "build_cwd": "Source/libs/cocos2d-iphone", 
+            "project": "cocos2d-ios", 
+            "project_config": "Release", 
+            "target": "cocos2d"
+        }
+    ], 
+    "pchs": [
+        "./Source/Prefix.pch"
+    ], 
+    "sources": [
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/AppDelegate.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/CollisionHandler/UTWorldCollisionHandler.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/MainScene.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/UTMenuScene.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/main.m"
+        }
+    ], 
+    "type": "app", 
+    "version": "2", 
+    "xcode_project": "BeneathTheSurface.xcodeproj"
+}
